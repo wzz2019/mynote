@@ -1,5 +1,5 @@
 *[created_at：2020-05-20]* 
-# $\color{red}{引言}$
+# 引言
 &emsp;&emsp;做了这么多年软件测试工作，一直都是功能业务测试为主，之前看过别人总结的测试技术体系的一个技能树，发现需要学习了解的知识很多，这些知识看起来都是知道的，但是都太过浅显，甚至很多没实际接触过的，不能深入探究。
 &emsp;&emsp;自己一直想要系统学习，曾经也各种教程收藏了很多，但都是断断续续的。近期在跟着一个课程系统的学习一下这些技术体系内容。想要真的有学到东西，所以开始每节课都做笔记，并且找一个地方进行记录，于是就决定用了简书(使用简书的markdown很方便，markdown也是这次开始使用的)。
 &emsp;&emsp;纯理论的东西基本都是课程内容摘录，理论要点摘录。涉及技术的部分，会有知识点的笔记，以及自己实操的例子和一些总结。
@@ -14,13 +14,13 @@
 - [1-6 测试活动内容](https://www.jianshu.com/p/d3e7ceb76e73)
 - [1-7 经典测试书籍](https://www.jianshu.com/p/ebe1f1a2759b)
 
-#Linux与Shell
+# Linux与Shell
 - [2-1 Linux系统与shell环境概述](https://www.jianshu.com/p/425cc3b1cab2)
 - [2-2 Linux常用命令](https://www.jianshu.com/p/d1dff3774ac0)
 - [2-3-1 Linux三剑客与管道与正则](https://www.jianshu.com/p/219de355cad4)
 - [2-5-1 Shell脚本编程-实例1](https://www.jianshu.com/p/2a90955998af)
 
-#脚本语言python    *[`python3`]*
+# 脚本语言python    *[`python3`]*
 - [3-1 Linux与Python与pip](https://www.jianshu.com/p/3adbfdc7c8bc)
 - [3-2 python项目的git管理](https://www.jianshu.com/p/1f9cd02edf7e)
 - [3-5 python数据结构](https://www.jianshu.com/p/3d5f0ff9802b)
